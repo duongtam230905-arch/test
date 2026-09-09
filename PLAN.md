@@ -17,39 +17,41 @@
 ## 📋 Chi tiết các bài học và nội dung cần soạn
 
 ### Bài 1: Tính đơn điệu của hàm số
-- [x] Soạn lý thuyết: Mối liên hệ giữa dấu của đạo hàm và tính đơn điệu.
-- [x] Dạng 1: Xét tính đơn điệu của hàm số cho bởi công thức (Đa thức, phân thức).
-- [ ] Dạng 2: Tìm khoảng đơn điệu dựa vào bảng biến thiên hoặc đồ thị của $f(x)$ và $f'(x)$.
-- [ ] Dạng 3: Bài toán ứng dụng thực tế về tính đơn điệu.
+- [x] Soạn lý thuyết.
+- [x] Dạng 1: Xét tính đơn điệu của hàm số cho bởi một công thức. Cho ví dụ
+- [x] Dạng 2: Xét tính đơn điệu của hàm số cho bởi đồ thị - bảng biến thiên. Cho ví dụ
+- [x] Dạng 3: Xác định cực trị của hàm số cho bởi công thức. Cho ví dụ
+- [x] Dạng 4:Xác định cực trị của hàm số cho bởi bảng biến thiên – đồ thị. Cho ví dụ
+- [ ] Luyện tập
 
 ### Bài 2: Cực trị của hàm số
 - [ ] Soạn lý thuyết: Khái niệm cực trị, Quy tắc 1 (Lập BBT), Quy tắc 2 (Dùng đạo hàm cấp 2).
-- [ ] Dạng 1: Tìm cực trị của các hàm số cơ bản.
-- [ ] Dạng 2: Tìm cực trị qua đồ thị/bảng biến thiên.
-- [ ] Dạng 3: Bài toán ứng dụng cực trị trong hình học và đời sống.
+- [ ] Dạng 1: Tìm cực trị của các hàm số cơ bản. Cho ví dụ.
+- [ ] Dạng 2: Tìm cực trị qua đồ thị/bảng biến thiên. Cho ví dụ.
+- [ ] Dạng 3: Bài toán ứng dụng cực trị trong hình học và đời sống. Cho ví dụ.
+- [ ] Luyện tập.
 
 ### Bài 3: Giá trị lớn nhất và Giá trị nhỏ nhất
 - [ ] Soạn lý thuyết: Phân biệt GTLN/GTNN trên một khoảng và trên một đoạn.
-- [ ] Dạng 1: Tìm GTLN, GTNN của hàm số trên một đoạn $[a; b]$.
-- [ ] Dạng 2: Tìm GTLN, GTNN trên một khoảng hoặc trên tập xác định.
-- [ ] Dạng 3: Bài toán tối ưu hóa trong thực tiễn (Cực kỳ quan trọng cho CT 2018):
-    - *Bài toán hình học:* Cắt gập hộp giấy sao cho thể tích lớn nhất.
-    - *Bài toán kinh tế:* Tối thiểu hóa chi phí nguyên vật liệu, tối đa hóa lợi nhuận.
+- [ ] Dạng 1: Tìm GTLN, GTNN của hàm số trên một đoạn $[a; b]$. Cho ví dụ.
+- [ ] Dạng 2: Tìm GTLN, GTNN trên một khoảng hoặc trên tập xác định. Cho ví dụ.
+- [ ] Dạng 3: Bài toán tối ưu hóa trong thực tiễn (Cắt gập hộp giấy, tối thiểu hóa chi phí, tối đa hóa lợi nhuận...). Cho ví dụ.
+- [ ] Luyện tập.
 
 ### Bài 4: Đường tiệm cận của đồ thị hàm số
-- [ ] Soạn lý thuyết: Định nghĩa tiệm cận ngang, tiệm cận đứng.
-- [ ] Mới (CT 2018): Tiệm cận xiên của đồ thị hàm số (Đặc biệt là hàm phân thức bậc 2 / bậc 1).
-- [ ] Dạng 1: Tìm các đường tiệm cận của hàm số cho bởi công thức.
-- [ ] Dạng 2: Nhận diện tiệm cận qua đồ thị, bảng biến thiên.
+- [ ] Soạn lý thuyết: Định nghĩa tiệm cận ngang, tiệm cận đứng, tiệm cận xiên của đồ thị hàm số (đặc biệt là hàm phân thức bậc 2 / bậc 1).
+- [ ] Dạng 1: Tìm các đường tiệm cận của hàm số cho bởi công thức. Cho ví dụ.
+- [ ] Dạng 2: Nhận diện tiệm cận qua đồ thị, bảng biến thiên. Cho ví dụ.
+- [ ] Luyện tập.
 
 ### Bài 5: Khảo sát sự biến thiên và vẽ đồ thị hàm số
-- [ ] Soạn sơ đồ các bước khảo sát hàm số chung.
-- [ ] Thực hành khảo sát: Hàm đa thức bậc 3.
-- [ ] Thực hành khảo sát: Hàm phân thức bậc 1 / bậc 1.
-- [ ] Thực hành khảo sát: Hàm phân thức bậc 2 / bậc 1.
-- [ ] Dạng: Đọc đồ thị, nhận dạng dấu của các hệ số.
-- [ ] Dạng: Bài toán tương giao của hai đồ thị.
-
+- [ ] Soạn lý thuyết: Sơ đồ các bước khảo sát hàm số chung.
+- [ ] Dạng 1: Khảo sát sự biến thiên và vẽ đồ thị hàm đa thức bậc 3. Cho ví dụ.
+- [ ] Dạng 2: Khảo sát sự biến thiên và vẽ đồ thị hàm phân thức bậc 1 / bậc 1. Cho ví dụ.
+- [ ] Dạng 3: Khảo sát sự biến thiên và vẽ đồ thị hàm phân thức bậc 2 / bậc 1. Cho ví dụ.
+- [ ] Dạng 4: Đọc đồ thị, nhận dạng dấu của các hệ số. Cho ví dụ.
+- [ ] Dạng 5: Bài toán tương giao của hai đồ thị. Cho ví dụ.
+- Luyện tập.
 ---
 
 ## 💻 Thiết kế Tình huống học tập & Tích hợp Công nghệ
